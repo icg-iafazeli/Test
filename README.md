@@ -1,8 +1,8 @@
-Test
+Testing Git
 ====
 
 $ mkdir ~/Test
-# Creates a directory for your project called "Hello-World" in your user directory
+# Creates a directory for your project called "Test" in your user directory
 
 $ cd ~/Test
 # Changes the current working directory to your newly created directory
